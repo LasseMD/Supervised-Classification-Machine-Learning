@@ -12,7 +12,7 @@ This code conducts a supervised classification analysis using the K-Nearest Neig
 - Model Evaluation: Confusion matrices, accuracy scores, and classification reports
 - Parameter Tuning: Testing different values of K and test sizes
 
-## 2. Decision-Tree-Classifier-Analysis
+## 2. Haberman-Decision-Tree-Classifier-Analysis
 
 ### Description:
 This code implements a Decision Tree classifier on the same Haberman dataset. It follows a similar workflow to the previous code but uses the Decision Tree algorithm instead of KNN. The code preprocesses the data, splits it into training and testing sets, trains the model, and evaluates its performance.
